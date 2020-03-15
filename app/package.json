@@ -1,0 +1,24 @@
+{
+  "name": "wisesayings",
+  "version": "0.0.1",
+  "description": "A simple API to emit wise sayings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://reselbob@github.com/reselbob/wisesayings.git"
+  },
+  "author": "reselbob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reselbob/wisesayings/issues"
+  },
+  "homepage": "https://github.com/reselbob/wisesayings#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1",
+    "supertest": "^4.0.2"
+  }
+}
